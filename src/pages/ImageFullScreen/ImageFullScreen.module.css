@@ -1,0 +1,35 @@
+.BackBtn {
+  padding: 8px;
+  border: none;
+  background-color: #3030309d;
+  border-radius: 5px;
+}
+
+.Link {
+  text-decoration: none;
+  cursor: pointer;
+  color: #f0f0f0;
+}
+
+.Error {
+  width: 100vw;
+  height: 100vh;
+  font-size: 50px;
+  color: #303030;
+  font-weight: 700;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Container {
+  width: 100vw;
+  height: 100vh;
+}
+
+.Img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}

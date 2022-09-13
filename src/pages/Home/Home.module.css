@@ -1,0 +1,26 @@
+.Home {
+  width: 100vw;
+  height: 100%;
+  padding: 25px 15px;
+}
+
+.List {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: -20px;
+  width: calc(100vw - 2%);
+}
+
+@media screen and (min-width: 767px) {
+  .List {
+    margin-top: -20px;
+    margin-left: -20px;
+    width: calc(100vw - 5%);
+  }
+}
+@media screen and (min-width: 1280px) {
+  .List {
+    margin-top: -20px;
+    margin-left: -20px;
+  }
+}

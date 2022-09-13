@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-images-test/static/css/main.ced9035e.css",
+    "main.js": "/react-images-test/static/js/main.66fbb384.js",
+    "index.html": "/react-images-test/index.html",
+    "main.ced9035e.css.map": "/react-images-test/static/css/main.ced9035e.css.map",
+    "main.66fbb384.js.map": "/react-images-test/static/js/main.66fbb384.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ced9035e.css",
+    "static/js/main.66fbb384.js"
+  ]
+}
